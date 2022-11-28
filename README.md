@@ -1,15 +1,32 @@
 # Memories
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
+##Introduction
+Using React, Node.js, Express & MongoDB I learnt how to build a Full Stack MERN Application . The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+## 
+Database:
+The database used is MONGODB COMPASS.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+##Frontend:
+REACT is used for Frontend. AXIOS is used for API.
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+##ScreenShot:
+![image](https://user-images.githubusercontent.com/107273995/204345723-0c202685-3292-49ba-9a35-50fe1ef5fa13.png)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+##Features:
+-> The user can create a post.
+-> The user can delete a post.
+-> The user can update a post.
+-> The user can like a post.
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+##TeckStack Used:
+Techstack used is MERN STACK.
+
+##Future Scope:
+-> 
+
+##Author:
+ANUSHKA KARAMCHANDANI
+
+##Setup:
+- run ```npm i && npm start``` for both client and server side to start the app.
